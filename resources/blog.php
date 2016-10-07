@@ -1,0 +1,1 @@
+<?php  header( 'Location: http://www.computrad.co.uk/computrad-blog/' ) ;  ?>
