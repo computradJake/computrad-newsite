@@ -3,12 +3,12 @@
 
   <head>    
     <meta charset="utf-8">
-     <meta name="description" content="IT Support for Businesses- Computrad (Europe) Holdings Ltd  Provides IT services tailoured for Business. Please call 0208 997 9888 for more information on our range of IT services.">
-    <meta name="keywords" content="it support, small business it support, it outsourcing, managed services, managed it services, london, uk, CompuSupport, CompuManage">
+     <meta name="description" content="IT Support for Professional Services and Business services company. Contact us for your IT support needs for Business and Professional Services companies">
+    <meta name="keywords" content="Professional Services it support london, Business Services IT support, business it support, it outsourcing, managed services, managed it services, london, m25, uk">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Computrad">
 <?php include '../inc/modules/headinglinks.php'; ?>
-    <title>Title</title>
+    <title>Business and Professional Services IT support London and M25</title>
   </head>
 
   <body>

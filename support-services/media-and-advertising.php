@@ -3,8 +3,8 @@
 
   <head>    
     <meta charset="utf-8">
-    <meta name="description" content="IT Support for Media and Marketing companies - Computrad provides IT support services specifically designed for Media and Marketing companies. Please call 0208 997 9888 for more information on our range of IT services.">
-    <meta name="keywords" content="it support, small business it support, it outsourcing, managed services, managed it services, london, uk, CompuSupport, CompuManage">
+    <meta name="description" content="IT Support for Media and Marketing companies - Computrad provides IT support services specifically designed for the needs of Media and Marketing businesses and companies. Please call 0208 997 9888 for more information on our range of IT services for media, digital print and marketing companies">
+    <meta name="keywords" content="Media and marketing business IT Support, UK media IT Support, London media and marketing IT support, m25, UK, IT Support Services for media and marketing, IT Support Services for marketing and media businesses, media and marketing computer Support, media and marketing IT Services, media and marketing IT Support Outsourcing, media and marketing Managed IT Services">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Computrad">
 <?php include '../inc/modules/headinglinks.php'; ?>

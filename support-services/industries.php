@@ -3,12 +3,12 @@
 
   <head>    
     <meta charset="utf-8">
-    <meta name="description" content="Computrad (Europe) Holdings Ltd provide IT managed support services in London. Please call 0208 997 9888 for more information on our range of IT services.">
-    <meta name="keywords" content="it support, small business it support, it outsourcing, managed services, managed it services, london, uk, CompuSupport, CompuManage">
+    <meta name="description" content="IT Support for Financial Services including Private Equity and Hedge Funds is Computrad's speciality. Computrad offer IT support for Legal, Mining, Energy firms, GP & Dental Practices. Our other areas for specialist markets are IT support for Media and Advertising, Charity & Not For Profit as well as Letting & Estate Agents Computrad (Europe) Holdings Ltd provide IT managed support services for your specific industry.">
+    <meta name="keywords" content="it support private equity, it support hedge fund, it support financial services, it support solicitor and legal practice, small business it support, it outsourcing, managed services, managed it services, london, m25, uk">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Computrad">
 <?php include '../inc/modules/headinglinks.php'; ?>
-    <title>IT Support London for Different Industry in the UK</title>
+    <title>IT Support London for my business in the UK</title>
   </head>
 
   <body>

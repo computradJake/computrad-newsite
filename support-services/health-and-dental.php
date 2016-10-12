@@ -3,12 +3,12 @@
 
   <head>    
     <meta charset="utf-8">
-    <meta name="keywords" content="IT Support, IT Support Services, Computer Support, IT Services, IT Outsourcing, Managed Services, Managed IT Services, CompuSupport, CompuManage">
-    <meta name="description" content="IT Support for Dental Practices - Computrad provides IT support services specifically designed for Medical and Dental. Please call 0208 997 9888 for more information on our range of IT services.">
+    <meta name="keywords" content="Dental Practice IT Support, Dental Surgery IT support, GP Practive IT support, GP Surgery IT support, Health Professional IT support, Healthcare Provider IT Support, m25, UK, London GP IT Support, IT Support Services for surgeries, IT Support Services for GP, Health care Computer Support, Dental IT Services, Healthcare IT Outsourcing, Healthcare Managed IT Services, Dental Practice Managed IT Services">
+    <meta name="description" content="IT Support for Health Professionals including Dental and GP Surgeries and Practices - Computrad provides IT support services specifically designed for Medical and Dental Surgery Professionals">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Computrad">
 <?php include '../inc/modules/headinglinks.php'; ?>
-    <title>IT Support Services for Medical and Dental Practices in London | Computrad</title>
+    <title>IT Support Services for GP, Medical and Dental Surgeries and Practices in London | Computrad</title>
   </head>
 
   <body>

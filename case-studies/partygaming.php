@@ -4,7 +4,7 @@
   <head>    
     <meta charset="utf-8">
     <meta name="keywords" content="IT Support, IT Support Services, Computer Support, IT Services, IT Outsourcing, Managed Services, Managed IT Services, CompuSupport, CompuManage">
-    <meta name="description" content="Computrad is an award winning provider of IT Support. Find out how we deliver our industry leading IT Support Services">
+    <meta name="description" content="Casino, poker, sportsbook case study for Bwin 888 (Partygaming) Computrad is an award winning provider of IT Solutions for the online casino sportsbook and gaming market Find out how we deliver our industry leading IT Support Services for the gambling industry">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Computrad">
 <?php include '../../inc/modules/headinglinks.php'; ?>

@@ -3,12 +3,12 @@
 
   <head>    
     <meta charset="utf-8">
-    <meta name="keywords" content="IT Support, IT Support Services, Computer Support, IT Services, IT Outsourcing, Managed Services, Managed IT Services, CompuSupport, CompuManage">
-    <meta name="description" content="IT Support for Recruitment Business. Computrad provides IT support specifically catered to the needs of the fast moving recuitment and HR industries.">
+    <meta name="keywords" content="Recruitment IT Support, London recruitment agency IT support, m25, UK, IT Support Services for the recuitment industry, recruitment computer Support, recruitment IT Services, recruitment agency IT Support Outsourcing, Recruitment Managed IT Services">
+    <meta name="description" content="IT Support for Recruitment Agencies, Computrad provides IT support specifically catered to the needs of the fast moving recuitment and HR industries.">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Computrad">
 <?php include '../inc/modules/headinglinks.php'; ?>
-    <title>IT Support for Recruitment Companies in London | Computrad</title>
+    <title>IT Support for Recruitment Agencies and HR in London | Computrad</title>
   </head>
 
   <body>

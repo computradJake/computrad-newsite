@@ -4,7 +4,7 @@
   <head>    
     <meta charset="utf-8">
     <meta name="keywords" content="IT Support, IT Support Services, Computer Support, IT Services, IT Outsourcing, Managed Services, Managed IT Services, CompuSupport, CompuManage">
-    <meta name="description" content="If you have a Voice over IP (VoIP) or IP Telephony (IPT) project, many will  tell you that your WAN needs to be overhauled or completely re-designed with a  new element to it, a new technology or even a new service">
+    <meta name="description" content="If you have a Voice over IP (VoIP) or IP Telephony (IPT) project, many will tell you that your WAN needs to be overhauled or completely re-designed with a new element to it, a new technology or even a new service">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Computrad">
 <?php include '../../inc/modules/headinglinks.php'; ?>

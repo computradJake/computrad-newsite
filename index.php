@@ -3,12 +3,12 @@
 
   <head>    
     <meta charset="utf-8">
-    <meta name="description" content="Computrad (Europe) Holdings Ltd provide IT managed support services in London. Please call 0208 997 9888 for more information on our range of IT services.">
-    <meta name="keywords" content="it support, small business it support, it outsourcing, managed services, managed it services, london, uk, CompuSupport, CompuManage">
+    <meta name="description" content="IT Support London Outsourcing and Business IT Support is provided in London and the M25 covering Server IT support, Network IT support with a proactively monitored IT Support service">
+    <meta name="keywords" content="IT support london, IT support, IT support companies, IT Support for Business, London IT support services, IT support services London, it support company london, Desktop Support, server support, it support companies in london, managed services london, IT outsourcing London, it support central london, best it support company, cyber security companies, Cyber Security London, IT Consultancy, IT Services London, it support, it support companies, it support company london, IT Support Hounslow, Microsoft IT Support, London it support, Network IT support, Network Support">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Computrad">
 <?php include 'inc/modules/headinglinks.php'; ?>
-    <title>IT Support London for Small, Medium & Large Business</title>
+    <title>IT Support London for Business</title>
   </head>
 
   <body>

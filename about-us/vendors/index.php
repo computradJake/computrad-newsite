@@ -3,12 +3,12 @@
 
   <head>    
     <meta charset="utf-8">
-    <meta name="keywords" content="IT projects, it project delivery, it management problems, IT Support Services, Computer Support, IT Services, IT Outsourcing, Managed Services, Managed IT Services, CompuSupport, CompuManage">
-    <meta name="description" content="Computrad is partnered with multiple hardware companies to provide the highest grade hardware to your company.">
+    <meta name="keywords" content="Microsoft IT Server Support Computrad, Microsoft Server Migration, Exchange IT support, Microsoft Exchange Migration, VMWare virtualisation, Microsoft server virtualisation, projects, it project delivery, it management problems, IT Support Services, Computer Support, IT Services, IT Outsourcing, Managed Services, Managed IT Services">
+    <meta name="description" content="IT support vendor technology supported by Computrad in partnership with best of breed vendors offering a complete IT support outsourcing services in London and within the M25 region.">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Computrad">
 <?php include '../../inc/modules/headinglinks.php'; ?>
-    <title>Best of Breed Technologies | Computrad</title>
+    <title>Microsoft Server, Exchange Server, VMWare and Citrix IT Support | Best of Breed IT Support Technologies | Computrad</title>
   </head>
 
   <body>

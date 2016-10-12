@@ -3,12 +3,12 @@
 
   <head>    
     <meta charset="utf-8">
-    <meta name="description" content="IT Support for Tourism companies - Computrad provides IT support services specifically designed for Tourism companies. Please call 0208 997 9888 for more information on our range of IT services.">
-    <meta name="keywords" content="it support, small business it support, it outsourcing, managed services, managed it services, london, uk, CompuSupport, CompuManage">
+    <meta name="description" content="IT Support for Travel and Tourism agencies, companies and businesses - Computrad provides IT support services specifically designed for the needs of the Travel agency and Tourism industry. Please call 0208 997 9888 for more information on our range of IT services for travel agencies and the tourism industry.">
+    <meta name="keywords" content="Travel agency it support, Travel agency and Tourism IT Support, UK travel agency and tourism IT Support, London travel and tourism IT support, m25, UK, IT Support Services for the travel and tourism business, travel agency and tourism computer Support, travel and tourism IT Services, travel and tourism IT Support Outsourcing, travel and tourism Managed IT Services">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Computrad">
 <?php include '../inc/modules/headinglinks.php'; ?>
-    <title>IT Support Services for Tourism companies in London | Computrad</title>
+    <title>IT Support Services for Travel Agencies and Tourism companies in London | Computrad</title>
   </head>
 
   <body>

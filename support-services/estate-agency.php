@@ -4,12 +4,12 @@
   <head>    
     <meta charset="utf-8">
     
-    <meta name="keywords" content="IT Support, IT Support Services, Computer Support, IT Services, IT Outsourcing, Managed Services, Managed IT Services, CompuSupport, CompuManage">
-    <meta name="description" content="IT Support for Estate Agents and Letting Agents. Computrad (Europe) Holdings Ltd provide IT support services specifically designed for Estate and Letting Agents. Please call 0208 997 9888 for more information on our range of IT services.">
+    <meta name="keywords" content="Financial Services IT Support, Private Equity IT Support, Hedge Fund IT Support, Insurance IT support, m25, UK, London">
+    <meta name="description" content="IT support for Private Equity, Hedge Fund and Financial Services Industry. The growing need of compliance needs specialist IT support services so call for the best IT support for financial services organisations and choose Computrad today.">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Computrad">
 <?php include '../inc/modules/headinglinks.php'; ?>
-    <title>IT Support Services for Estate Agents in London | Computrad</title>
+    <title>Private Equity PE IT Support, Hedge Fund IT support and Financial Services IT Support and Solutions | Computrad</title>
   </head>
 
   <body>

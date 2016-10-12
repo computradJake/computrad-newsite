@@ -3,8 +3,8 @@
 
   <head>    
     <meta charset="utf-8">
-    <meta name="keywords" content="IT Support, IT Support Services, Computer Support, IT Services, IT Outsourcing, Managed Services, Managed IT Services, CompuSupport, CompuManage">
-    <meta name="description" content="IT Support for Energy and Utility Companies.">
+    <meta name="keywords" content="OIl and Energy IT Support, UK oil and gas IT Support, London oil and gas IT support, m25, UK, IT Support Services for oil and gas, oil and gas computer Support, oil and gas IT Services, oil and gas IT Support Outsourcing, oil and gas Managed IT Services">
+    <meta name="description" content="IT Support for Gas, Energy and Utility companies, drilling, oil, upstream, downstream, LNG, bunkering and exploration companies - Computrad provides IT support services specifically designed for the needs of Gas, Energy and utility business, oil, bunkering and exploration and drilling companies. Please call 0208 997 9888 for more information on our range of IT services.">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Computrad">
 <?php include '../inc/modules/headinglinks.php'; ?>

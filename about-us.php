@@ -3,12 +3,12 @@
 
   <head>    
     <meta charset="utf-8">
-    <meta name="keywords" content="IT Support, IT Support Services, Computer Support, IT Services, IT Outsourcing, Managed Services, Managed IT Services, CompuSupport, CompuManage">
-    <meta name="description" content="Computer support company in London, Computrad (Europe) Holdings Ltd, provide IT services throughout the UK’s capital city. Please call 0208 997 9888 for more information." />
+    <meta name="keywords" content="IT Support, IT Support Services, Business IT support, IT Services, IT Outsourcing, IT helpdesk, Managed Services, Managed IT Services, New Private datacentre">
+    <meta name="description" content="IT support company in London offering IT infrastructure outsourcing services, Computrad provides IT Support services throughout London and within the M25 region" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Computrad">
 <?php include '../inc/modules/headinglinks.php'; ?>
-    <title>Computer Support Company in London | Computrad</title>
+    <title>About an IT Support Company in London | Computrad</title>
   </head>
 
   <body>
