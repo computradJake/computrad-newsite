@@ -8,7 +8,7 @@
 
   <p><strong>Browse our range of whitepapers</strong></p>
 
-  <a href="../../resources/white-papers.php.php" class="btn btn-success btn-lg">View Here</a>
+  <a href="../../resources/white-papers.php" class="btn btn-success btn-lg">View Here</a>
 
 </div>
 

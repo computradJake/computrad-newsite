@@ -145,47 +145,47 @@
     <div class="row">
     <div class="col-md-3 botnav-col">
     <h3>IT Support by Business Size</h3>
-    <a href="../../services/support-and-managed-services/startup-business-it-support.php" class="botnav-sublink"><h4>10 - 25 Users</h4>
+    <a href="../../support-services/startup-business-it-support.php" class="botnav-sublink"><h4>10 - 25 Users</h4>
     <p>IT Support Services for businesses with 10-25 users</p></a>
-    <a href="http://localhost/services/support-and-managed-services/sme-business-it-support.php" class="botnav-sublink"><h4>26-150 Users</h4>
+    <a href="../../support-services/sme-business-it-support.php" class="botnav-sublink"><h4>26-150 Users</h4>
     <p>IT Support Services for SMEs businesses</p></a>
-    <a href="http://localhost/services/support-and-managed-services/it-support.php" class="botnav-sublink"><h4>151-499 Users</h4>
+    <a href="../../support-services/it-support.php" class="botnav-sublink"><h4>151-499 Users</h4>
     <p>IT Support Services for Medium Businesses</p></a>
-    <a href="http://localhost/services/support-and-managed-services/enterprise-sized-it-support.php" class="botnav-sublink"><h4>500+ User</h4>
+    <a href="../../support-services/enterprise-sized-it-support.php" class="botnav-sublink"><h4>500+ User</h4>
     <p>IT Support Services for Enterprises</p></a>
     </div>
     <div class="col-md-3 botnav-col">
-    <a href="http://localhost/industries/" class="botnav-sublink"><h3>IT Support by Business Type</h3>
-    <a href="http://localhost/industries/business-services.php" class="botnav-sublink"><h4>IT Support for Offices</h4></a>
-    <a href="http://localhost/industries/mining.php" class="botnav-sublink"><h4>IT Support for Mining</h4></a>
-    <a href="http://localhost/industries/charity.php" class="botnav-sublink"><h4>IT Support for Charities</h4></a>
-    <a href="http://localhost/industries/manufacturing.php" class="botnav-sublink"><h4>IT Support for Manufacturing</h4></a>
-    <a href="http://localhost/industries/finance.php" class="botnav-sublink"><h4>IT Support for Financial</h4></a>
-    <a href="http://localhost/industries/legal.php" class="botnav-sublink"><h4>IT Support for Legal</h4></a>
-    <a href="http://localhost/industries/recruitment.php" class="botnav-sublink"><h4>IT Support for Recruitment</h4></a>
-    <a href="http://localhost/industries/estate-agency.php" class="botnav-sublink"><h4>IT Support for Estate Agents</h4></a>
-    <a href="http://localhost/industries/oil-gas-and-energy.php" class="botnav-sublink"><h4>IT Support for Energy Firms</h4></a>
-    <a href="http://localhost/industries/health-and-dental.php" class="botnav-sublink"><h4>IT Support for Health and Dental</h4></a>
-    <a href="http://localhost/industries/travel-and-tourism.php" class="botnav-sublink"><h4>IT Support for Travel and Tourism</h4></a>
-    <a href="http://localhost/industries/media-and-advertising.php" class="botnav-sublink"><h4>IT Support for Media and Advertising</h4></a>
+    <a href="../../support-services/industries.php" class="botnav-sublink"><h3>IT Support by Business Type</h3>
+    <a href="../../support-services/business-services.php" class="botnav-sublink"><h4>IT Support for Offices</h4></a>
+    <a href="../../support-services/mining.php" class="botnav-sublink"><h4>IT Support for Mining</h4></a>
+    <a href="../../support-services/charity.php" class="botnav-sublink"><h4>IT Support for Charities</h4></a>
+    <a href="../../support-services/manufacturing.php" class="botnav-sublink"><h4>IT Support for Manufacturing</h4></a>
+    <a href="../../support-services/finance.php" class="botnav-sublink"><h4>IT Support for Financial</h4></a>
+    <a href="../../support-services/legal.php" class="botnav-sublink"><h4>IT Support for Legal</h4></a>
+    <a href="../../support-services/recruitment.php" class="botnav-sublink"><h4>IT Support for Recruitment</h4></a>
+    <a href="../../support-services/estate-agency.php" class="botnav-sublink"><h4>IT Support for Estate Agents</h4></a>
+    <a href="../../support-services/oil-gas-and-energy.php" class="botnav-sublink"><h4>IT Support for Energy Firms</h4></a>
+    <a href="../../support-services/health-and-dental.php" class="botnav-sublink"><h4>IT Support for Health and Dental</h4></a>
+    <a href="../../support-services/travel-and-tourism.php" class="botnav-sublink"><h4>IT Support for Travel and Tourism</h4></a>
+    <a href="../../support-services/media-and-advertising.php" class="botnav-sublink"><h4>IT Support for Media and Advertising</h4></a>
     </div>
     <div class="col-md-3 botnav-col">
       <h3>Temporary IT Support Cover</h3>
-      <a href="http://localhost/services/support-and-managed-services/holiday-cover-it-support.php" class="botnav-sublink"><h4>Temporary IT Support Cover</h4>
+      <a href="../../support-services/holiday-cover-it-support.php" class="botnav-sublink"><h4>Temporary IT Support Cover</h4>
       <p>Short term IT Support contracts to cover holidays and sick leave</p></a>
-      <a href="http://localhost/services/support-and-managed-services/emergency-it-support.php" class="botnav-sublink"><h4>Emergency IT Support</h4>
+      <a href="../../support-services/emergency-it-support.php" class="botnav-sublink"><h4>Emergency IT Support</h4>
       <p>Get the support you need to recover from an IT disaster</p></a>
       <h3>Server Support</h3>
-      <a href="http://localhost/services/support-and-managed-services/server-support.php" class="botnav-sublink"><h4>Server Support</h4>
+      <a href="../../support-services/server-support.php" class="botnav-sublink"><h4>Server Support</h4>
       <p>Server support and maintenance services</p></a>
     </div>
     <div class="col-md-3 botnav-col">
       <h3>Specialist IT Support</h3>
-      <a href="http://localhost/services/support-and-managed-services/it-support-london.php" class="botnav-sublink"><h4>IT Support in London</h4>
+      <a href="../../support-services/it-support-london.php" class="botnav-sublink"><h4>IT Support in London</h4>
       <p>Specialist IT Support for London based clients</p></a>
-      <a href="http://localhost/services/support-and-managed-services/it-support-middlesex.php" class="botnav-sublink"><h4>IT Support in Middlesex</h4>
+      <a href="../../support-services/it-support-middlesex.php" class="botnav-sublink"><h4>IT Support in Middlesex</h4>
       <p>Specialist IT Support for Middlesex based clients</p></a>
-      <a href="http://localhost/services/support-and-managed-services/it-helpdesk.php" class="botnav-sublink"><h4>Helpdesk Staff</h4>
+      <a href="../../support-services/it-helpdesk.php" class="botnav-sublink"><h4>Helpdesk Staff</h4>
       <p>A dedicated helpdesk engineer for your business</p></a>
     </div>
     </div>
@@ -200,40 +200,40 @@
     <div class="row">
     <div class="col-md-3 botnav-col">
     <h3>Protection</h3>
-    <a href="http://localhost/services/support-and-managed-services/managed-firewall.php" class="botnav-sublink"><h4>Managed Firewall</h4>
+    <a href="../../managed-services/managed-firewall.php" class="botnav-sublink"><h4>Managed Firewall</h4>
     <p>Business focused Firewall to provide total protection</p></a>
-    <a href="http://localhost/services/security-and-compliance/cpe-ddos-mitigation.php" class="botnav-sublink"><h4>DDoS Mitigation (CPE)</h4>
+    <a href="../../it-security/cpe-ddos-mitigation.php" class="botnav-sublink"><h4>DDoS Mitigation (CPE)</h4>
     <p>On Site protection against DDoS threats</p></a>
-    <a href="http://localhost/services/security-and-compliance/cloud-based-ddos-mitigation.php" class="botnav-sublink"><h4>DDoS Mitigation (Cloud)</h4>
+    <a href="../../it-security/cloud-based-ddos-mitigation.php" class="botnav-sublink"><h4>DDoS Mitigation (Cloud)</h4>
     <p>Cloud Based protection against DDoS threats</p></a>
-    <a href="http://localhost/services/security-and-compliance/full-network-attack-mitigation.php" class="botnav-sublink"><h4>Full Attack Mitigation</h4>
+    <a href="../../it-security/full-network-attack-mitigation.php" class="botnav-sublink"><h4>Full Attack Mitigation</h4>
     <p>The comprehensive IT Security solution</p></a>
     </div>
     <div class="col-md-3 botnav-col">
     <h3 class="botnav-h3space"></h3>
-    <a href="http://localhost/services/security-and-compliance/apt-prevention.php" class="botnav-sublink"><h4>APT Prevention</h4>
+    <a href="../../it-security/apt-prevention.php" class="botnav-sublink"><h4>APT Prevention</h4>
     <p>Advanced Persistent Threat Protection</p></a>
-    <a href="http://localhost/services/security-and-compliance/managed-ips.php" class="botnav-sublink"><h4>Intrusion Prevention</h4>
+    <a href="../../it-security/managed-ips.php" class="botnav-sublink"><h4>Intrusion Prevention</h4>
     <p>Our primary Managed IPS Service</p></a>
-    <a href="http://localhost/services/security-and-compliance/web-application-firewall.php" class="botnav-sublink"><h4>Web Application Firewall</h4>
+    <a href="../../it-security/web-application-firewall.php" class="botnav-sublink"><h4>Web Application Firewall</h4>
     <p>Keeps web based applications 100% secure</p></a>
-    <a href="http://localhost/services/security-and-compliance/managed-anti-scraping.php" class="botnav-sublink"><h4>Anti-Scraping</h4>
+    <a href="../../it-security/managed-anti-scraping.php" class="botnav-sublink"><h4>Anti-Scraping</h4>
     <p>Full protection against Website scraping and bots</p></a>
     </div>
     <div class="col-md-3 botnav-col">
       <h3>Monitoring</h3>
-      <a href="http://localhost/services/security-and-compliance/real-time-network-intelligence.php" class="botnav-sublink"><h4>Real Time Intelligence</h4>
+      <a href="../../it-security/real-time-network-intelligence.php" class="botnav-sublink"><h4>Real Time Intelligence</h4>
       <p>Provides real time network information</p></a>
-      <a href="http://localhost/services/security-and-compliance/security-information-event-management.php" class="botnav-sublink"><h4>SIEM</h4>
+      <a href="../../it-security/security-information-event-management.php" class="botnav-sublink"><h4>SIEM</h4>
       <p>Security Information and Event Management</p></a>
-      <a href="http://localhost/services/security-and-compliance/security-information-event-management.php" class="botnav-sublink"><h4>Fortinet Support</h4>
+      <a href="../../it-security/security-information-event-management.php" class="botnav-sublink"><h4>Fortinet Support</h4>
       <p>Keeping your fortinet firewalls up and running</p></a>
     </div>
     <div class="col-md-3 botnav-col">
       <h3>Authentication</h3>
-      <a href="http://localhost/services/security-and-compliance/managed-2factor-authentication.php" class="botnav-sublink"><h4>2 Factor Authentication</h4>
+      <a href="../../it-security/managed-2factor-authentication.php" class="botnav-sublink"><h4>2 Factor Authentication</h4>
       <p>The new standard in authentication</p></a>
-      <a href="http://localhost/services/security-and-compliance/managed-2factor-authentication.php" class="botnav-sublink"><h4>Encryption</h4>
+      <a href="../../it-security/managed-2factor-authentication.php" class="botnav-sublink"><h4>Encryption</h4>
       <p>Ensures communications are 100% secure</p></a>
     </div>
     </div>
@@ -248,24 +248,24 @@
     <div class="row">
     <div class="col-md-3 botnav-col">
     <h3>Managed Services</h3>
-    <a href="http://localhost/services/support-and-managed-services/full-managed-services.php" class="botnav-sublink"><h4>Full Managed Service</h4>
+    <a href="../../managed-services/full-managed-services.php" class="botnav-sublink"><h4>Full Managed Service</h4>
     <p>Let us Manage your entire IT Infrastructure</p></a>
-    <a href="http://localhost/services/support-and-managed-services/desktop-managed-services.php" class="botnav-sublink"><h4>Desktop Management</h4>
+    <a href="../../managed-services/desktop-managed-services.php" class="botnav-sublink"><h4>Desktop Management</h4>
     <p>Full Management of Business Desktop systems</p></a>
-    <a href="http://localhost/services/support-and-managed-services/server-managed-services.php" class="botnav-sublink"><h4>Server Management</h4>
+    <a href="../../managed-services/server-managed-services.php" class="botnav-sublink"><h4>Server Management</h4>
     <p>Full Server Configuration and Management</p></a>
-    <a href="http://localhost/services/support-and-managed-services/managed-backup.php" class="botnav-sublink"><h4>Managed Backup</h4>
+    <a href="../../managed-services/managed-backup.php" class="botnav-sublink"><h4>Managed Backup</h4>
     <p>Full Management of Backup operations</p></a>
     </div>
     <div class="col-md-3 botnav-col">
     <h3 class="botnav-h3space"></h3>
-    <a href="http://localhost/services/support-and-managed-services/server-network-monitoring.php" class="botnav-sublink"><h4>Server & Network Monitoring</h4>
+    <a href="../../managed-services/server-network-monitoring.php" class="botnav-sublink"><h4>Server & Network Monitoring</h4>
     <p>Server Network Monitoring Service</p></a>
-    <a href="http://localhost/services/support-and-managed-services/mobile-device-management.php" class="botnav-sublink"><h4>Mobile Device Management</h4>
+    <a href="../../managed-services/mobile-device-management.php" class="botnav-sublink"><h4>Mobile Device Management</h4>
     <p>Extends your Managed IT to mobile devices</p></a>
-    <a href="http://localhost/services/support-and-managed-services/managed-wan-optimisation.php" class="botnav-sublink"><h4>Managed WAN</h4>
+    <a href="../../managed-services/managed-wan-optimisation.php" class="botnav-sublink"><h4>Managed WAN</h4>
     <p>Full Management of your business WAN/LAN</p></a>
-    <a href="http://localhost/services/support-and-managed-services/managed-cloud-backup.php" class="botnav-sublink"><h4>Cloud Backup</h4>
+    <a href="../../managed-services/managed-cloud-backup.php" class="botnav-sublink"><h4>Cloud Backup</h4>
     <p>Cloud based, business focused backup solution</p></a>
     </div>
     <!--<div class="col-md-3 botnav-col">
@@ -301,13 +301,13 @@
     <div class="row">
     <div class="col-md-3 botnav-col">
     <h3>Professional Services</h3>
-    <a href="http://localhost/services/consultancy/hosted-sharepoint.php" class="botnav-sublink"><h4>Network Design</h4>
+    <a href="../../support-services/hosted-sharepoint.php" class="botnav-sublink"><h4>Network Design</h4>
     <p>Expert Network design and deployment</p></a>
-    <a href="http://localhost/services/consultancy/hosted-exchange.php" class="botnav-sublink"><h4>Network Traffic Analysis</h4>
+    <a href="../../support-services/hosted-exchange.php" class="botnav-sublink"><h4>Network Traffic Analysis</h4>
     <p>Optimisation through traffic management</p></a>
-    <a href="http://localhost/services/consultancy/it-holiday-cover.php" class="botnav-sublink"><h4>Network Audit</h4>
+    <a href="../../support-services/it-holiday-cover.php" class="botnav-sublink"><h4>Network Audit</h4>
     <p>Detect IT problems with our detailed audit</p></a>
-    <a href="http://localhost/services/consultancy/it-helpdesk.php" class="botnav-sublink"><h4>IT Projects</h4>
+    <a href="../../support-services/it-helpdesk.php" class="botnav-sublink"><h4>IT Projects</h4>
     <p>Professional IT Project Delivery from Computrad</p></a>
     </div>
     <div class="col-md-3 botnav-col">
@@ -317,14 +317,14 @@
     </div>
     <div class="col-md-3 botnav-col">
     <h3>Cloud Services</h3>
-    <a href="http://localhost/services/consultancy/hosted-sharepoint.php" class="botnav-sublink"><h4>Hosted Sharepoint</h4>
+    <a href="../../support-services/hosted-sharepoint.php" class="botnav-sublink"><h4>Hosted Sharepoint</h4>
     <p>Cloud based Managed Sharepoint Deployment</p></a>
-    <a href="http://localhost/services/consultancy/hosted-exchange.php" class="botnav-sublink"><h4>Hosted Exchange</h4>
+    <a href="../../support-services/hosted-exchange.php" class="botnav-sublink"><h4>Hosted Exchange</h4>
     <p>Cloud based Microsoft Exchange hosting</p></a>
     </div>
     <div class="col-md-3 botnav-col">
     <h3>Office Relocation</h3>
-    <a href="http://localhost/services/consultancy/it-helpdesk.php" class="botnav-sublink"><h4>Complete IT Relocation</h4>
+    <a href="../../support-services/it-helpdesk.php" class="botnav-sublink"><h4>Complete IT Relocation</h4>
     <p>Fully Managed relocation of your IT</p></a>
     </div>
     </div>

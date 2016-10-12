@@ -26,7 +26,7 @@
           <div class="row" style="margin:0; padding:0;">
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../industries/recruitment.php">
+                <a href=""../../support-services/recruitment.php">
                 <figure class="effect-julia">
                   <img src="../inc/img/industries/recruitment.jpg" alt="Recruitment IT Support">
                   
@@ -44,7 +44,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../industries/business-services.php">
+                <a href="../support-services/business-services.php">
                 <figure class="effect-julia">
                   <img src="../inc/img/industries/office.jpg" alt="Business Services IT Support">
                   <figcaption>
@@ -61,7 +61,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../industries/manufacturing.php">
+                <a href="../support-services/manufacturing.php">
                 <figure class="effect-julia">
                   <img src="../inc/img/industries/manufacturing.jpg" alt="Manufacturing IT Support">
                   <figcaption>
@@ -78,7 +78,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../industries/legal.php">
+                <a href=""../../support-services/legal.php">
                 <figure class="effect-julia">
                   <img src="../inc/img/industries/legal.jpg" alt="Legal IT Support">
                   <figcaption>
@@ -95,9 +95,9 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../industries/finance.php">
+                <a href="../support-services/finance.php">
                 <figure class="effect-julia">
-                  <img src="../inc/img/industries/finance.jpg" alt="Finance IT Support">
+                  <img src="../inc/img/industries/finance.jpg"" alt="Finance IT Support">
                   <figcaption>
                     <div class="heading">
                       <h3>Finance</h3>
@@ -112,7 +112,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../industries/estate-agency.php">
+                <a href=""../../support-services/estate-agency.php">
                 <figure class="effect-julia">
                   <img src="../inc/img/industries/estate-agency.jpg" alt="Estate Agency IT Support">
                   <figcaption>
@@ -129,7 +129,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../industries/oil-gas-and-energy.php">
+                <a href=""../../support-services/oil-gas-and-energy.php">
                 <figure class="effect-julia">
                   <img src="../inc/img/industries/energy.jpg" alt="Oil, Gas & Energy IT Support">
                   <figcaption>
@@ -146,7 +146,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../industries/charity.php">
+                <a href="../support-services/charity.php">
                 <figure class="effect-julia">
                   <img src="../inc/img/industries/charity.jpg" alt="Charity IT support">
                   <figcaption>
@@ -163,7 +163,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../industries/health-and-dental.php">
+                <a href=""../../support-services/health-and-dental.php">
                 <figure class="effect-julia">
                   <img src="../inc/img/industries/dental.jpg" alt="Health and Dental IT Support">
                   <figcaption>

@@ -31,7 +31,7 @@
               </div>
               
               <div class="col-md-4 col-sm-4 wow fadeInRight main-section-img-div" data-wow-duration="1000ms" data-wow-delay="300ms">
-                <img src="../inc/img/section-images/industries/finance.jpg" class="img-responsive" alt="">
+                <img src="../inc/"../../inc/img/section-images/support-services/finance.jpg"" class="img-responsive" alt="">
               </div>  
 
             </div>

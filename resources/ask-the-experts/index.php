@@ -329,7 +329,7 @@
           <div class="container">
             <div class="row text-center">         
                 <h3 class="title-small wow bounce" data-wow-duration="1000ms" data-wow-delay="300ms">Interested in our services?</h3>
-                 <a href="/contact" class="btn btn-lg btn-border">Contact Us</a>
+                 <a href="#contact" class="btn btn-lg btn-border">Contact Us</a>
               </div>
           </div>
         </section>
