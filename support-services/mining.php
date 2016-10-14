@@ -3,12 +3,12 @@
 
   <head>    
     <meta charset="utf-8">
-     <meta name="description" content="IT Support for Businesses- Computrad (Europe) Holdings Ltd  Provides IT services tailoured for Business. Please call 0208 997 9888 for more information on our range of IT services.">
-    <meta name="keywords" content="it support, small business it support, it outsourcing, managed services, managed it services, london, uk, CompuSupport, CompuManage">
+    <meta name="description" content="IT Support for Mining and excvation and exploration companies - Computrad provides IT support services specifically designed for the needs of mining, excavation and exploration companies. Please call 0208 997 9888 for more information on our range of IT services to meet the needs of the mining industry.">
+    <meta name="keywords" content="OIl and Energy IT Support, UK oil and gas IT Support, London oil and gas IT support, m25, UK, IT Support Services for oil and gas, oil and gas computer Support, oil and gas IT Services, oil and gas IT Support Outsourcing, oil and gas Managed IT Services">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Computrad">
 <?php include '../inc/modules/headinglinks.php'; ?>
-    <title>Title</title>
+    <title>IT Support Services for Mining, Propecting, Excavation and Exploration Companies in London | Computrad</title>
   </head>
 
   <body>
@@ -31,7 +31,7 @@
               </div>
               
               <div class="col-md-4 col-sm-4 wow fadeInRight main-section-img-div" data-wow-duration="1000ms" data-wow-delay="300ms">
-                <img src="../inc/img/section-images/industries/business-services.jpg" class="img-responsive" alt="">
+                <img src="../inc/img/section-images/industries/Mining.jpg" class="img-responsive" alt="">
               </div>  
 
             </div>

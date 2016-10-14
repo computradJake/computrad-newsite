@@ -4,7 +4,7 @@
   <head>    
     <meta charset="utf-8">
    <meta name="keywords" content="disaster recovery small business">
-    <meta name="description" content="Trust Computrad’s comprehensive solution for disaster recovery for small business with best results. Visit online to know more.">
+    <meta name="description" content="Trust Computrad’s comprehensive solution for disaster recovery for small businesses producing the best results.">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Computrad">
 <?php include '../../inc/modules/headinglinks.php'; ?>

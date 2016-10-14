@@ -95,7 +95,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="./cloud-based-ddos-mitigation.php">
+                <a href="../../it-security/cloud-based-ddos-mitigation.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/database.jpg" alt="DDoS Mitigation (Cloud">
                   <figcaption>
@@ -275,7 +275,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="./radware-inflight.php">
+                <a href="./../../radware/radware-inflight.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/network.jpg" alt="Radware Inflight">
                   <figcaption>
@@ -290,7 +290,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="./radware-alteon.php">
+                <a href="./../../radware/radware-alteon.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/network-security2.jpg" alt="Radware Alteon">
                   <figcaption>
@@ -305,7 +305,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="./paloalto-pa4000-series.php">
+                <a href="../../paloalto/paloalto-pa4000-series.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/server.jpg" alt="Palo Alto PA-4000">
                   <figcaption>
@@ -320,7 +320,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="./paloalto-pa2000-series.php">
+                <a href="../../paloalto/paloalto-pa2000-series.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/server2.jpg" alt="Palo Alto PA-2000">
                   <figcaption>
@@ -335,7 +335,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="./paloalto-pa500-series.php">
+                <a href="../../paloalto/paloalto-pa500-series.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/server3.jpg" alt="Palo Alto PA-500">
                   <figcaption>
@@ -350,176 +350,6 @@
             </div>
           </div>
         </section>
-
-        <!--<section id="other-services" class="section">
-          <div class="container" >
-            <div class="section-header">
-              <h2 class="section-title wow fadeInRight" data-wow-duration="1000ms" data-wow-delay="400ms">IT Security Solutions</h2>
-            </div> 
-            <div class="row">
-              <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="400ms">
-                <div class="service-option">
-                <a class="services-options" href="./full-network-attack-mitigation.php">
-                  <div class="security-services-content">
-                  <div class="icon hi-icon-effect-3b">
-                    <i class="mdi-action-settings"></i>
-                  </div>
-                  <h3>Full Attack Mitigation</h3>
-                  <p>Our premium IT Security offering. An all in one, real time network security solution</p>
-                </div>
-              </a>
-              </div>
-              </div>
-              <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
-                <div class="service-option">
-                <a class="services-options" href="./real-time-network-intelligence.php">
-                  <div class="security-services-content">
-                  <div class="icon">
-                    <i class="mdi-action-lock-outline"></i>
-                  </div>
-                  <h3>Real Time Intelligence</h3>
-                  <p>Real Time traffic analysis to provide fast identification of security threats</p>
-                </div>
-                </a>
-                </div>
-              </div>
-              <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="800ms">
-                <div class="service-option">
-                <a class="services-options" href="./cpe-ddos-mitigation.php">
-                  <div class="security-services-content">
-                  <div class="icon">
-                    <i class="mdi-social-person-outline"></i>
-                  </div>
-                  <h3>DDoS Mitigation (CPE)</h3>
-                  <p>On site monitoring to provide 24/7 protection against DDoS attacks</p>
-                </div>
-                </a>
-                </div>
-              </div>
-              <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="1000ms">
-                <div class="service-option">
-                <a class="services-options" href="./cloud-based-ddos-mitigation.php">
-                  <div class="security-services-content">
-                  <div class="icon">
-                    <i class="mdi-file-cloud-queue"></i>
-                  </div>
-                  <h3>DDoS Mitigation (Cloud)</h3>
-                  <p>Cloud based solution providing end to end protection against evolving DDoS threats</p>
-                </div>
-                </a>
-                </div>
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="1200ms">
-                <div class="service-option">
-                <a class="services-options" href="./perimeter-firewall.php">
-                  <div class="security-services-content">
-                  <div class="icon">
-                    <i class="mdi-action-grade"></i>
-                  </div>
-                  <h3>Perimeter Firewall</h3>
-                  <p>The first line of defence for your network against a wide range of cyber threats</p>
-                </div>
-                </a>
-                </div>
-              </div>
-              <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="1400ms">
-                <div class="service-option">
-                <a class="services-options" href="./apt-prevention.php">
-                  <div class="security-services-content">
-                  <div class="icon">
-                    <i class="mdi-content-flag"></i>
-                  </div>
-                  <h3>APT Prevention</h3>
-                  <p>Monitors and Protects your business network against 'Advanced Persistent Threats'</p>
-                </div>
-                </a>
-                </div>
-              </div>
-              <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="1600ms">
-                <div class="service-option">
-                <a class="services-options" href="./managed-ips.php">
-                  <div class="security-services-content">
-                  <div class="icon">
-                    <i class="mdi-communication-messenger"></i>
-                  </div>
-                  <h3>Intrusion Prevention</h3>
-                  <p>Keeps your business network secure against evolving security threats</p>
-                </div>
-                </a>
-                </div>
-              </div>
-              <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="1800ms">
-                <div class="service-option">
-                <a class="services-options" href="./managed-2factor-authentication.php">
-                  <div class="security-services-content">
-                  <div class="icon">
-                    <i class="mdi-action-settings-power"></i>
-                  </div>
-                  <h3>2 Factor Authentication</h3>
-                  <p>The industry leading authentication method, built to suit your requirements</p>
-                </div>
-                </a>
-                </div>
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="2000ms">
-                <div class="service-option">
-                <a class="services-options" href="./web-application-firewall.php">
-                  <div class="security-services-content">
-                  <div class="icon">
-                    <i class="mdi-action-settings-power"></i>
-                  </div>
-                  <h3>Web Application Firewall</h3>
-                  <p>Provides threat protection and secure delivery of essential web applications</p>
-                </div>
-                </a>
-                </div>
-              </div>
-              <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="2200ms">
-                <div class="service-option">
-                <a class="services-options" href="./managed-anti-scraping.php">
-                  <div class="security-services-content">
-                  <div class="icon">
-                    <i class="mdi-action-settings-power"></i>
-                  </div>
-                  <h3>Anti-Scraping</h3>
-                  <p>Complete protection for your online services against data scraping</p>
-                </div>
-                </a>
-                </div>
-              </div>
-              <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="2400ms">
-                <div class="service-option">
-                <a class="services-options" href="./bandwidth-management.php">
-                  <div class="security-services-content">
-                  <div class="icon">
-                    <i class="mdi-action-settings-power"></i>
-                  </div>
-                  <h3>Bandwidth Management</h3>
-                  <p>Smart traffic management to deliver applications quickly and securely</p>
-                </div>
-                </a>
-                </div>
-              </div>
-              <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="2600ms">
-                <div class="service-option">
-                <a class="services-options" href="./security-information-event-management.php">
-                  <div class="security-services-content">
-                  <div class="icon">
-                    <i class="mdi-action-settings-power"></i>
-                  </div>
-                  <h3>SIEM</h3>
-                  <p>Information Management and Event Logging to provide security focused intelligence</p>
-                </div>
-                </a>
-              </div>
-              </div>
-            </div>
-          </div>
-        </section>-->
 
         <section id="cta">
           <div class="container">

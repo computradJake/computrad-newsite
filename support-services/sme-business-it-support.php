@@ -45,7 +45,7 @@
             <div class="row"> 
 
               <div class="col-md-4 col-sm-4 wow fadeInRight main-section-img-div" data-wow-duration="1000ms" data-wow-delay="300ms">
-                <img src="../../inc/img/section-images/work-environment4.jpg" class="img-responsive" alt="SME IT Support">
+                <img src="../../inc/img/section-images/work-environment4.png" class="img-responsive" alt="SME IT Support">
               </div>  
 
               <div class="col-md-8 col-sm-8 wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="300ms">

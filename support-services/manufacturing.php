@@ -3,12 +3,12 @@
 
   <head>    
     <meta charset="utf-8">
-    <meta name="keywords" content="IT Support, IT Support Services, Computer Support, IT Services, IT Outsourcing, Managed Services, Managed IT Services, CompuSupport, CompuManage">
-    <meta name="description" content="IT Support for Manufacturing Business">
+    <meta name="keywords" content="Manufacturing IT Support, UK manufacturer IT Support, London manufacturer IT support, m25, UK, IT Support Services for manufacturing, IT Support Services for manufacturer businesses, manufacturing computer Support, manufacturing IT Services, manufacturer IT Support Outsourcing, manufacturing Managed IT Services, manufacturer Managed IT Services">
+    <meta name="description" content="IT Support for manufacturing businesses in the UK and London">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Computrad">
 <?php include '../inc/modules/headinglinks.php'; ?>
-    <title>IT Support Services for Manufacturing in London | Computrad</title>
+    <title>IT Support Services for Manufacturing businesses in London | Computrad</title>
   </head>
 
   <body>

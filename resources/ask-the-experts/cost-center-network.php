@@ -4,7 +4,7 @@
   <head>    
     <meta charset="utf-8">
     <meta name="keywords" content="IT Support, IT Support Services, Computer Support, IT Services, IT Outsourcing, Managed Services, Managed IT Services, CompuSupport, CompuManage">
-    <meta name="description" content="Imagine the scenario where you are in charge of a large enterprise network  spanning globally across different continents and that this served as the  common link between several different business entities within your corporation  group">
+    <meta name="description" content="Imagine the scenario where you are in charge of a large enterprise network spanning globally across different continents and that this served as the common link between several different business entities within your corporation group">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Computrad">
 <?php include '../../inc/modules/headinglinks.php'; ?>

@@ -70,7 +70,7 @@
           <div class="row" style="margin:0; padding:0;">
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="./microsoft-office-365.php">
+                <a href="../../support-services/microsoft-office-365.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/server.jpg" alt="Microsoft Office 365">
                   <figcaption>
@@ -84,7 +84,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../support-and-managed-services/managed-cloud-backup.php">
+                <a href="../../managed-services/managed-cloud-backup.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/server2.jpg" alt="Managed Cloud Backup">
                   <figcaption>
@@ -99,7 +99,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../security-and-compliance/cloud-based-ddos-mitigation.php">
+                <a href="../../it-security/cloud-based-ddos-mitigation.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/workdesk.jpg" alt="DDoS Mitigation (Cloud)">
                   <figcaption>

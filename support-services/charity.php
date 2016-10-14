@@ -4,12 +4,12 @@
   <head>    
     <meta charset="utf-8">
     
-    <meta name="keywords" content="IT Support, IT Support Services, Computer Support, IT Services, IT Outsourcing, Managed Services, Managed IT Services, CompuSupport, CompuManage">
-    <meta name="description" content="IT Support for Charities and Charitable Institutions - Computrad provides IT support services specifically designed for Charities. Please call 0208 997 9888 for more information on our range of IT services.">
+    <meta name="keywords" content="Charity it support london, Charitable Institution IT support, Not for profit IT support, it outsourcing, managed services, managed it services, london, m25, uk">
+    <meta name="description" content="IT Support for Charities, Charitable Institutions and IT support for Not for Profit Organisations - Computrad provides IT support services specifically designed for Charity. Please call 0208 997 9888 for more information on our range of IT services.">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Computrad">
 <?php include '../inc/modules/headinglinks.php'; ?>
-    <title>IT Support Services for Charities in London | Computrad</title>
+    <title>IT Support Services for Charities and Not for Profit companies in London | Computrad</title>
   </head>
 
   <body>

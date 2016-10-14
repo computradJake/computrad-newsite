@@ -3,8 +3,8 @@
 
   <head>    
     <meta charset="utf-8">
-    <meta name="keywords" content="IT Support, IT Support Services, Computer Support, IT Services, IT Outsourcing, Managed Services, Managed IT Services, CompuSupport, CompuManage">
-    <meta name="description" content="Do you have IT issues and need expert advice from an industry leader? Visit us today and find out how we can help you with a range of problems.">
+    <meta name="keywords" content="IT Expert advice on implementing IT solutions and services, Asking an IT Expert for help for my business, Getting expert IT Support and help">
+    <meta name="description" content="Do you have IT issues and need expert advice from an industry leader? Visit us today and find out how we can help you with a range of IT Solutions to your problems.">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Computrad">
 <?php include '../../inc/modules/headinglinks.php'; ?>
@@ -329,7 +329,7 @@
           <div class="container">
             <div class="row text-center">         
                 <h3 class="title-small wow bounce" data-wow-duration="1000ms" data-wow-delay="300ms">Interested in our services?</h3>
-                 <a href="/contact" class="btn btn-lg btn-border">Contact Us</a>
+                 <a href="#contact" class="btn btn-lg btn-border">Contact Us</a>
               </div>
           </div>
         </section>

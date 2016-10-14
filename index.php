@@ -3,17 +3,19 @@
 
   <head>    
     <meta charset="utf-8">
-    <meta name="description" content="Computrad (Europe) Holdings Ltd provide IT managed support services in London. Please call 0208 997 9888 for more information on our range of IT services.">
-    <meta name="keywords" content="it support, small business it support, it outsourcing, managed services, managed it services, london, uk, CompuSupport, CompuManage">
+    <meta name="description" content="IT Support London Outsourcing and Business IT Support is provided in London and the M25 covering Server IT support, Network IT support with a proactively monitored IT Support service">
+    <meta name="keywords" content="IT support london, IT support, IT support companies, IT Support for Business, London IT support services, IT support services London, it support company london, Desktop Support, server support, it support companies in london, managed services london, IT outsourcing London, it support central london, best it support company, cyber security companies, Cyber Security London, IT Consultancy, IT Services London, it support, it support companies, it support company london, IT Support Hounslow, Microsoft IT Support, London it support, Network IT support, Network Support">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Computrad">
 <?php include 'inc/modules/headinglinks.php'; ?>
-    <title>IT Support London for Small, Medium & Large Business</title>
+    <title>IT Support London for Business</title>
   </head>
 
   <body>
 
 <?php include 'inc/modules/navbar.php'; ?>
+
+
 
       <div class="content-wrap">
         <header class="slider-area" id="home">      
@@ -70,7 +72,7 @@
                       <br>
                       <br>
                       <br>
-                     <a href="./services/support-and-managed-services/" class="btn btn-lg btn-primary">Learn about our IT Support</a>
+                     <a href="./support-services/" class="btn btn-lg btn-primary">Learn about our IT Support</a>
                     </div>
                   </li>
                   <li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-thumb="inc/img/slider/slide2.jpg" data-bgfit="cover" data-delay="5000" data-saveperformance="on">
@@ -97,7 +99,7 @@
                     <br>
                     <br>
 
-                     <a href="./services/security-and-compliance/" class="btn btn-lg btn-primary">Get protected! Find out how </a>
+                     <a href="./it-security/" class="btn btn-lg btn-primary">Get protected! Find out how </a>
                     </div>
                   </li>
                   <li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-thumb="inc/img/slider/slide3.jpg" data-bgfit="cover" data-delay="5000" data-saveperformance="on">
@@ -237,7 +239,7 @@
               <div class="col-md-8 col-sm-8 wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="300ms">
                 <div class="feature-item">
                   <h1 class="title-small">IT Managed Support Services in London</h1>
-                  <p>Award winning providers of <a href="/services/support-and-managed-services/">IT Support, IT Outsourcing and Managed IT</a></p>
+                  <p>Award winning providers of <a href="/support-services/">IT Support, IT Outsourcing and Managed IT</a></p>
                   <h3>London's Award Winning IT Support Company</h3>
                   <p>As the industry’s most skilled provider of IT managed support services, with a reputation for trust and reliability Computrad is the first choice for Outsourced IT and Managed IT Services Worldwide.</p>
                   <p>Computrad offers IT managed support services in London that can be tailored to fit any organisation using our expertise, experience and constant ability to deliver. We serve clients of all sizes from SMEs through to Corporate Enterprises, Government Institutions and the US Military.</p>
@@ -326,7 +328,7 @@
                   <p>With two offices in London, we provide reliable support and strategic direction to empower your businesses.</p>
                   <p>Our Team of experienced Technology and Industry consultants take the time to understand more about you, your set up and your business goals, enabling us to best advise around the use of technology.</p>
                   <p>We look to understand your people, your processes and more importantly the aspirations of your business in order for us to help you to achieve your Tech and business goal</p>
-                  <a href="./abou-us/" class="btn btn-primary">Click Here to Learn More About Us</a>
+                  <a href="./about-us/" class="btn btn-primary">Click Here to Learn More About Us</a>
                 </div>
               </div>  
 

@@ -3,12 +3,12 @@
 
   <head>    
     <meta charset="utf-8">
-    <meta name="description" content="If you need the very best specialist gaming infrastructure solutions then visit us today and give your online gamers the ultimate experience."/>
-    <meta name="keywords" content="egaming, igaming, online gaming systems, online gambling system, interet gambling busines, online poker systems, online betting system, online casino security, casino security, building site security, business security, online games security, DDoS mitigation, DDos protection, ddos firewall, citrix virtualisation, server virtualisation, application virtualisation, prevent chargebacks"/>
+    <meta name="description" content="Sportsbook IT Infrastructure Solutions, Casino and Gaming IT Infrastructure solutions. If you need the very best specialist sportsbook, casino, poker and slots IT infrastructure and datacentre and hosting solutions then visit us today and give your online gamers and bettors the ultimate IT experience."/>
+    <meta name="keywords" content="sportsbook IT support, sportsbook IT solutions, egaming IT, igaming IT, online IT gaming systems, online IT gambling system, internet gambling busines, online poker systems, online betting system, online casino security, casino security, building site security, business security, online gaming cybersecurity, DDoS mitigation, DDos protection, ddos firewall, sportsbook waf, citrix virtualisation, server virtualisation, application virtualisation, prevent chargebacks"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Computrad">
 <?php include '../inc/modules/headinglinks.php'; ?>
-    <title>Computrad eGaming | Online Gambling DDoS Protection You Can Trust</title>
+    <title>Sportsbook IT infrastructure and eGaming platforms | Online Gambling and sportsbook Hosting and DDoS Protection You Can Trust</title>
   </head>
 
   <body>

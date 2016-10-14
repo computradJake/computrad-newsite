@@ -4,7 +4,7 @@
   <head>    
     <meta charset="utf-8">
     <meta name="keywords" content="IT Support, IT Support Services, Computer Support, IT Services, IT Outsourcing, Managed Services, Managed IT Services, CompuSupport, CompuManage">
-    <meta name="description" content="Application Visibility Across a WAN, Do you not know  for sure exactly what applications are running across your network?">
+    <meta name="description" content="Application Visibility Across a WAN, Do you not know for sure exactly what applications are running across your network?">
 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Computrad">

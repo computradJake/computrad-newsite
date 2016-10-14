@@ -3,12 +3,12 @@
 
   <head>    
     <meta charset="utf-8">
-    <meta name="description" content="Computrad (Europe) Holdings Ltd provide IT managed support services in London. Please call 0208 997 9888 for more information on our range of IT services.">
-    <meta name="keywords" content="it support, small business it support, it outsourcing, managed services, managed it services, london, uk, CompuSupport, CompuManage">
+    <meta name="description" content="IT Support for Financial Services including Private Equity and Hedge Funds is Computrad's speciality. Computrad offer IT support for Legal, Mining, Energy firms, GP & Dental Practices. Our other areas for specialist markets are IT support for Media and Advertising, Charity & Not For Profit as well as Letting & Estate Agents Computrad (Europe) Holdings Ltd provide IT managed support services for your specific industry.">
+    <meta name="keywords" content="it support private equity, it support hedge fund, it support financial services, it support solicitor and legal practice, small business it support, it outsourcing, managed services, managed it services, london, m25, uk">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Computrad">
 <?php include '../inc/modules/headinglinks.php'; ?>
-    <title>IT Support London for Different Industry in the UK</title>
+    <title>IT Support London for my business in the UK</title>
   </head>
 
   <body>
@@ -26,7 +26,7 @@
           <div class="row" style="margin:0; padding:0;">
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../industries/recruitment.php">
+                <a href=""../../support-services/recruitment.php">
                 <figure class="effect-julia">
                   <img src="../inc/img/industries/recruitment.jpg" alt="Recruitment IT Support">
                   
@@ -44,7 +44,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../industries/business-services.php">
+                <a href="../support-services/business-services.php">
                 <figure class="effect-julia">
                   <img src="../inc/img/industries/office.jpg" alt="Business Services IT Support">
                   <figcaption>
@@ -61,7 +61,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../industries/manufacturing.php">
+                <a href="../support-services/manufacturing.php">
                 <figure class="effect-julia">
                   <img src="../inc/img/industries/manufacturing.jpg" alt="Manufacturing IT Support">
                   <figcaption>
@@ -78,7 +78,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../industries/legal.php">
+                <a href=""../../support-services/legal.php">
                 <figure class="effect-julia">
                   <img src="../inc/img/industries/legal.jpg" alt="Legal IT Support">
                   <figcaption>
@@ -95,9 +95,9 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../industries/finance.php">
+                <a href="../support-services/finance.php">
                 <figure class="effect-julia">
-                  <img src="../inc/img/industries/finance.jpg" alt="Finance IT Support">
+                  <img src="../inc/img/industries/finance.jpg"" alt="Finance IT Support">
                   <figcaption>
                     <div class="heading">
                       <h3>Finance</h3>
@@ -112,7 +112,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../industries/estate-agency.php">
+                <a href=""../../support-services/estate-agency.php">
                 <figure class="effect-julia">
                   <img src="../inc/img/industries/estate-agency.jpg" alt="Estate Agency IT Support">
                   <figcaption>
@@ -129,7 +129,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../industries/oil-gas-and-energy.php">
+                <a href=""../../support-services/oil-gas-and-energy.php">
                 <figure class="effect-julia">
                   <img src="../inc/img/industries/energy.jpg" alt="Oil, Gas & Energy IT Support">
                   <figcaption>
@@ -146,7 +146,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../industries/charity.php">
+                <a href="../support-services/charity.php">
                 <figure class="effect-julia">
                   <img src="../inc/img/industries/charity.jpg" alt="Charity IT support">
                   <figcaption>
@@ -163,7 +163,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../industries/health-and-dental.php">
+                <a href=""../../support-services/health-and-dental.php">
                 <figure class="effect-julia">
                   <img src="../inc/img/industries/dental.jpg" alt="Health and Dental IT Support">
                   <figcaption>

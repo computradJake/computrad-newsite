@@ -3,12 +3,12 @@
 
   <head>    
     <meta charset="utf-8">
-    <meta name="keywords" content="IT Support, IT Support Services, Computer Support, IT Services, IT Outsourcing, Managed Services, Managed IT Services, CompuSupport, CompuManage">
-    <meta name="description" content="IT support for Law Firms and Legal Institutions - Computrad (Europe) Holdings Ltd provide IT support services specifically designed for Law Firms. Please call 0208 997 9888 for more information on our range of IT services.">
+    <meta name="keywords" content="Legal IT Support, Legal Practice IT Support, Solicitors IT Support, Legal Firm IT support, Solicitor Practice IT support, Legal services IT support, Legal Profession IT support, Legal Services Provider IT Support, m25, UK, London Legal IT Support, IT Support Services for Legal, IT Support Services for lawyers, Legal Computer Support, Solicitors IT Services, Legal IT Support Outsourcing, Legal Managed IT Services, Legal Practice Managed IT Services">
+    <meta name="description" content="IT support for Solicitor Practices and firms, Law Firms and Legal Services Firms, Patent law IT support and Legal Institutions - Computrad provides IT support services specifically designed around the needs of Legal Services organisations. Please call 0208 997 9888 for more information on our range of IT support and managed IT services aimed at the legal profession">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Computrad">
 <?php include '../inc/modules/headinglinks.php'; ?>
-    <title>IT Support Services for Legal Firms in London | Computrad</title>
+    <title>IT Support Services for Legal Services and Solicitor Firms in London | Computrad</title>
   </head>
 
   <body>

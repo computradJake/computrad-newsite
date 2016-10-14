@@ -53,30 +53,30 @@
         <li class="dropdown">
           <a class="dropdown-toggle"  role="button" aria-haspopup="true" aria-expanded="false">Services<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="../../services/support-and-managed-services/">Support & Managed Services</a></li>
+            <li><a href="../../support-services/">Support & Managed Services</a></li>
             <li><a href="../../services/cloud-services/">Cloud</a></li>
             <li><a href="../../services/consultancy/">Consultancy</a></li>
-            <li><a href="../../services/security-and-compliance/">Security & Compliance</a></li>
+            <li><a href="../../it-security/">Security & Compliance</a></li>
             <li><a href="../../services/IT-assessment.php">IT Assessment</a></li>
           </ul>
         </li>
         <li class="dropdown">
-          <a href="../../industries/" role="button" aria-haspopup="true" aria-expanded="false">Industries<span class="caret"></span></a>
+          <a href="../../support-services/industries.php" role="button" aria-haspopup="true" aria-expanded="false">Industries<span class="caret"></span></a>
           <ul class="dropdown-menu">
             
-            <li><a href="../../industries/finance.php">Finance</a></li>
-            <li><a href="../../industries/egaming.php">EGaming</a></li>
-            <li><a href="../../industries/mining.php">Mining</a></li>
-            <li><a href="../../industries/legal.php">Legal</a></li>
-            <li><a href="../../industries/estate-agency.php">Estate Agency</a></li>
-            <li><a href="../../industries/oil-gas-and-energy.php">Oil, Gas & Energy</a></li>
-            <li><a href="../../industries/charity.php">Charity</a></li>
-            <li><a href="../../industries/health-and-dental.php">Health and Dental</a></li>
-            <li><a href="../../industries/travel-and-tourism.php">Travel and Tourism</a></li>
-            <li><a href="../../industries/recruitment.php">Recruitment</a></li>
-            <li><a href="../../industries/business-services.php">Business Services</a></li>
-            <li><a href="../../industries/manufacturing.php">Manufacturing</a></li>
-            <li><a href="../../industries/media-and-advertising.php">Media and Advertising</a></li>
+            <li><a href="../../support-services/finance.php">Finance</a></li>
+            <li><a href="../../support-services/egaming.php">EGaming</a></li>
+            <li><a href="../"../../support-services/mining.php">Mining</a></li>
+            <li><a href="../"../../support-services/legal.php">Legal</a></li>
+            <li><a href="../"../../support-services/estate-agency.php">Estate Agency</a></li>
+            <li><a href="../"../../support-services/oil-gas-and-energy.php">Oil, Gas & Energy</a></li>
+            <li><a href="../../support-services/charity.php">Charity</a></li>
+            <li><a href="../"../../support-services/health-and-dental.php">Health and Dental</a></li>
+            <li><a href="../"../../support-services/travel-and-tourism.php">Travel and Tourism</a></li>
+            <li><a href="../"../../support-services/recruitment.php">Recruitment</a></li>
+            <li><a href="../../support-services/business-services.php">Business Services</a></li>
+            <li><a href="../../support-services/manufacturing.php">Manufacturing</a></li>
+            <li><a href="../"../../support-services/media-and-advertising.php">Media and Advertising</a></li>
           </ul>
         </li>
         <li class="dropdown">
@@ -95,7 +95,7 @@
             <li><a href="../../resources/ask-the-experts/">Ask The Experts</a></li>
             <li><a href="../../resources/events.php">Events</a></li>
             <li><a href="../../resources/blog.php">Blog</a></li>
-            <li><a href="../../resources/case-studies/">Case Studies</a></li>
+            <li><a href="../../case-studies/">Case Studies</a></li>
             <li><a href="../../resources/press-releases/">Press Releases</a></li>
           </ul>
         </li>

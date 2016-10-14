@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Computrad">
 <?php include '../../inc/modules/headinglinks.php'; ?>
-    <title>IT Service Case Studies for Education London | Computrad</title>
+    <title>Palo Alto IT Security Case Studies for Schools and Education London | Computrad</title>
   </head>
 
   <body>

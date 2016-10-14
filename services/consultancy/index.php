@@ -89,7 +89,7 @@
           <div class="row" style="margin:0; padding:0;">
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="./hosted-sharepoint.php">
+                <a href="../../support-services/hosted-sharepoint.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/server.jpg" alt="Hosted Sharepoint">
                   <figcaption>
@@ -104,7 +104,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="./hosted-exchange.php">
+                <a href="../../support-services/hosted-exchange.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/server2.jpg" alt="Hosted Exchange">
                   <figcaption>
@@ -119,7 +119,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="./it-helpdesk.php">
+                <a href="../../managed-services/managed-wan-optimisation.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/internet.jpg" alt="Managed WAN Optimisation">
                   <figcaption>
@@ -134,7 +134,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="./hosted-sharepoint.php">
+                <a href="../../support-services/network-design.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/network.jpg" alt="Network Design">
                   <figcaption>
@@ -149,7 +149,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="./hosted-exchange.php">
+                <a href="../../support-services/network-traffic-analysis.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/devices.jpg" alt="Network Traffic Analysis">
                   <figcaption>
@@ -164,7 +164,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="./it-holiday-cover.php">
+                <a href="../../support-services/wan-audit.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/network-security2.jpg" alt="WAN Audit">
                   <figcaption>
@@ -179,7 +179,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="./it-helpdesk.php">
+                <a href="../../support-services/it-projects.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/workdesk3.jpg" alt="IT Project Delivery">
                   <figcaption>
@@ -194,7 +194,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="./it-helpdesk.php">
+                <a href="../../support-services/it-relocation.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/workdesk2.jpg" alt="IT Relocation">
                   <figcaption>
@@ -217,7 +217,7 @@
                 <div class="row">
                   <div class="col-md-3">
                   <div class="service-option">
-                  <a class="services-options" href="./hosted-sharepoint.php">
+                  <a class="services-options" href="../../support-services/hosted-sharepoint.php">
                   <div class="it-services-content">
                   <div class="icon hi-icon-effect-3b">
                   <i class="fa fa-apple fa-2x" aria-hidden="true"></i>
@@ -230,7 +230,7 @@
                   </div>
                   <div class="col-md-3">
                     <div class="service-option">
-                    <a class="services-options" href="./hosted-exchange.php">
+                    <a class="services-options" href="../../support-services/hosted-exchange.php">
                   <div class="it-services-content">
                   <div class="icon hi-icon-effect-3b">
                   <i class="fa fa-building fa-2x" aria-hidden="true"></i>
@@ -243,7 +243,7 @@
                 </div>
                   <div class="col-md-3">
                     <div class="service-option">
-                    <a class="services-options" href="./it-holiday-cover.php">
+                    <a class="services-options" href="../../support-services/it-holiday-cover.php">
                   <div class="it-services-content">
                   <div class="icon hi-icon-effect-3b">
                   <i class="fa fa-plane fa-2x" aria-hidden="true"></i>
@@ -256,7 +256,7 @@
                 </div>
                   <div class="col-md-3">
                     <div class="service-option">
-                    <a class="services-options" href="./it-helpdesk.php">
+                    <a class="services-options" href="../../support-services/it-helpdesk.php">
                   <div class="it-services-content">
                   <div class="icon hi-icon-effect-3b">
                   <i class="fa fa-phone fa-2x" aria-hidden="true"></i>

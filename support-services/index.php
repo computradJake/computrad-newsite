@@ -96,7 +96,7 @@
           <div class="row" style="margin:0; padding:0;">
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../../services/support-and-managed-services/startup-business-it-support.php">
+                <a href="../../support-services/startup-business-it-support.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/workdesk.jpg" alt="Startup Business IT Support">
                   <figcaption>
@@ -111,7 +111,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../../services/support-and-managed-services/sme-business-it-support.php">
+                <a href="../../support-services/sme-business-it-support.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/workdesk3.jpg" alt="SME Business IT Support">
                   <figcaption>
@@ -126,7 +126,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../../services/support-and-managed-services/it-support.php">
+                <a href="../../support-services/it-support.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/desktop.jpg" alt="IT Support">
                   <figcaption>
@@ -141,7 +141,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../../services/support-and-managed-services/enterprise-sized-it-support.php">
+                <a href="../../support-services/enterprise-sized-it-support.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/enterprise.jpg" alt="Enterprise IT Support">
                   <figcaption>
@@ -297,7 +297,7 @@
           <div class="row" style="margin:0; padding:0;">
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../../services/support-and-managed-services/apple-support.php">
+                <a href="../../support-services/apple-support.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/apple.jpg" alt="Apple Support">
                   <figcaption>
@@ -312,7 +312,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../../services/support-and-managed-services/holiday-cover-it-support.php">
+                <a href="../../support-services/holiday-cover-it-support.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/worker.jpg" alt="IT Holiday Cover Support">
                   <figcaption>
@@ -327,7 +327,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../../services/support-and-managed-services/it-helpdesk.php">
+                <a href="../../support-services/it-helpdesk.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/workdesk2.jpg" alt="IT Helpdesk">
                   <figcaption>
@@ -342,7 +342,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../../services/support-and-managed-services/it-support-london.php">
+                <a href="../../support-services/it-support-london.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/london.jpg" alt="IT Support London">
                   <figcaption>
@@ -357,7 +357,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../../services/support-and-managed-services/it-support-middlesex.php">
+                <a href="../../support-services/it-support-middlesex.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/internet.jpg" alt="IT Support Middlesex">
                   <figcaption>
@@ -372,7 +372,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../../services/support-and-managed-services/maintenance-agreements.php">
+                <a href="../../support-services/maintenance-agreements.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/whiteboard.jpg" alt="Maintenance Agreement">
                   <figcaption>
@@ -387,7 +387,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../../services/support-and-managed-services/pay-as-you-go-it-support.php">
+                <a href="../../support-services/pay-as-you-go-it-support.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/workdesk.jpg" alt="Pay as you go IT Support">
                   <figcaption>
@@ -402,7 +402,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../../services/support-and-managed-services/server-support.php">
+                <a href="../../support-services/server-support.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/server2.jpg" alt="Server Support">
                   <figcaption>
@@ -417,7 +417,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../../services/support-and-managed-services/disaster-recovery.php">
+                <a href="../../support-services/disaster-recovery.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/device.jpg" alt="Disaster Recovery">
                   <figcaption>
@@ -433,163 +433,6 @@
           </div>
         </section>
 
-        <!--<section id="main-services" class="section">
-              <div class="managed-it">
-                <h2 class="section-title wow fadeInRight" data-wow-duration="1000ms" data-wow-delay="400ms">Managed IT  Services</h2>
-                <div class="row">
-                  <div class="col-md-3">
-                    <div class="service-option">
-                  <a class="services-options" href="./desktop-managed-services.php">
-                  <div class="it-services-content">
-                  <div class="icon hi-icon-effect-3b">
-                  <i class="fa fa-desktop fa-2x" aria-hidden="true"></i>
-                  </div>
-                  <h3>Desktop Managed Services</h3>
-                  <p>This service will ensure all desktop based systems are correctly maintained</p>
-                  </div>
-                  </a>
-                  </div>
-                  </div>
-                  <div class="col-md-3">
-                    <div class="service-option">
-                  <a class="services-options" href="./full-managed-services.php">  
-                  <div class="it-services-content">
-                  <div class="icon hi-icon-effect-3b">
-                  <i class="fa fa-server fa-2x" aria-hidden="true"></i>
-                  </div>
-                  <h3>Full Managed Services</h3>
-                  <p>Fully Managed IT Service that will allow us to professionally manage every facet of your IT</p>
-                  </div>
-                  </a>
-                  </div>
-                  </div>
-                  <div class="col-md-3">
-                    <div class="service-option">
-                  <a class="services-options" href="./managed-backup.php">
-                  <div class="it-services-content">
-                  <div class="icon hi-icon-effect-3b">
-                  <i class="fa fa-building fa-2x" aria-hidden="true"></i>
-                  </div>
-                  <h3>Managed Backup</h3>
-                  <p>Organise your data, maintain its integrity and avoid potential data loss</p>
-                  </div>
-                  </a>
-                  </div>
-                  </div>
-                  <div class="col-md-3">
-                    <div class="service-option">
-                    <a class="services-options" href="./managed-cloud-backup.php">
-                  <div class="it-services-content">
-                  <div class="icon hi-icon-effect-3b">
-                  <i class="fa fa-building fa-2x" aria-hidden="true"></i>
-                  </div>
-                  <h3>Managed Cloud Backup</h3>
-                  <p>Keep your data safe and secure with our cloud backup service</p>
-                  </div>
-                  </a>
-                  </div>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-md-3">
-                    <div class="service-option">
-                    <a class="services-options" href="./managed-firewall.php">
-                  <div class="it-services-content">
-                  <div class="icon hi-icon-effect-3b">
-                  <i class="fa fa-building fa-2x" aria-hidden="true"></i>
-                  </div>
-                  <h3>Managed Firewall</h3>
-                  <p>A fully managed security solution designed to keep your systems secure</p>
-                  </div>
-                  </a>
-                  </div>
-                  </div>
-                  <div class="col-md-3">
-                    <div class="service-option">
-                    <a class="services-options" href="./managed-load-balancing.php">
-                  <div class="it-services-content">
-                  <div class="icon hi-icon-effect-3b">
-                  <i class="fa fa-building fa-2x" aria-hidden="true"></i>
-                  </div>
-                  <h3>Managed Load Balancing</h3>
-                  <p>Increases system efficiency by splitting the workload across multiple servers</p>
-                  </div>
-                  </a>
-                  </div>
-                  </div>
-                  <div class="col-md-3">
-                    <div class="service-option">
-                    <a class="services-options" href="./managed-wan-optimisation.php">
-                  <div class="it-services-content">
-                  <div class="icon hi-icon-effect-3b">
-                  <i class="fa fa-building fa-2x" aria-hidden="true"></i>
-                  </div>
-                  <h3>Managed Wan Optimisation</h3>
-                  <p>Works to provide uninterupted application delivery across your WAN</p>
-                  </div>
-                  </a>
-                  </div>
-                  </div>
-                  <div class="col-md-3">
-                    <div class="service-option">
-                    <a class="services-options" href="./mobile-device-management.php">
-                  <div class="it-services-content">
-                  <div class="icon hi-icon-effect-3b">
-                  <i class="fa fa-building fa-2x" aria-hidden="true"></i>
-                  </div>
-                  <h3>Mobile Device Management</h3>
-                  <p>Extends your business IT Management to Smartphones and Tablet devices</p>
-                  </div>
-                  </a>
-                  </div>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-md-3"
-                  ><div class="service-option">
-                    <a class="services-options" href="./proactive-network-monitoring.php">
-                  <div class="it-services-content">
-                  <div class="icon hi-icon-effect-3b">
-                  <i class="fa fa-building fa-2x" aria-hidden="true"></i>
-                  </div>
-                  <h3>Proactive Network Monitoring</h3>
-                  <p>Keeps networks running smoothly with constant monitoring, 365 days a year</p>
-                  </div>
-                  </a>
-                  </div>
-                  </div>
-                  <div class="col-md-3">
-                    <div class="service-option">
-                    <a class="services-options" href="./server-managed-services.php">
-                  <div class="it-services-content">
-                  <div class="icon hi-icon-effect-3b">
-                  <i class="fa fa-building fa-2x" aria-hidden="true"></i>
-                  </div>
-                  <h3>Server Managed Services</h3>
-                  <p>Maximise Server uptime and ensure vital data can be accessed 24/7</p>
-                  </div>
-                  </a>
-                  </div>
-                  </div>
-                  <div class="col-md-3">
-                    <div class="service-option">
-                    <a class="services-options" href="./server-network-monitoring.php">
-                  <div class="it-services-content">
-                  <div class="icon hi-icon-effect-3b">
-                  <i class="fa fa-building fa-2x" aria-hidden="true"></i>
-                  </div>
-                  <h3>Server Network Monitoring</h3>
-                  <p>Pro-actively protecting your server and network from problems</p>
-                  </div>
-                  </a>
-                  </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>-->
 
         <section id="screenshot" class="section">
           <div class="container">
@@ -600,7 +443,7 @@
           <div class="row" style="margin:0; padding:0;">
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../../services/support-and-managed-services/desktop-managed-services.php">
+                <a href="../../managed-services/desktop-managed-services.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/devices.jpg" alt="Desktop Managed Services">
                   <figcaption>
@@ -615,7 +458,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../../services/support-and-managed-services/full-managed-services.php">
+                <a href="../../managed-services/full-managed-services.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/server.jpg" alt="Full Managed Services">
                   <figcaption>
@@ -630,7 +473,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../../services/support-and-managed-services/managed-backup.php">
+                <a href="../../managed-services/managed-backup.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/security.jpg" alt="Managed Backup">
                   <figcaption>
@@ -645,7 +488,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../../services/support-and-managed-services/managed-cloud-backup.php">
+                <a href="../../managed-services/managed-cloud-backup.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/database.jpg" alt="Managed Cloud Backup">
                   <figcaption>
@@ -660,7 +503,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../../services/support-and-managed-services/managed-firewall.php">
+                <a href="../../managed-services/managed-firewall.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/server-security.jpg" alt="Managed Firewall">
                   <figcaption>
@@ -675,7 +518,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../../services/support-and-managed-services/managed-load-balancing.php">
+                <a href="../../managed-services/managed-load-balancing.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/device.jpg" alt="Managed Load Balancing">
                   <figcaption>
@@ -690,7 +533,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../../services/support-and-managed-services/managed-wan-optimisation.php">
+                <a href="../../managed-services/managed-wan-optimisation.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/network.jpg" alt="Managed Wan Optimisation">
                   <figcaption>
@@ -705,7 +548,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../../services/support-and-managed-services/mobile-device-management.php">
+                <a href="../../managed-services/mobile-device-management.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/desktop.jpg" alt="Mobile Device Management">
                   <figcaption>
@@ -720,7 +563,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../../services/support-and-managed-services/proactive-network-monitoring.php">
+                <a href="../../managed-services/proactive-network-monitoring.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/network.jpg" alt="Proactive Network Monitoring">
                   <figcaption>
@@ -735,7 +578,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../../services/support-and-managed-services/server-managed-services.php">
+                <a href="../../managed-services/server-managed-services.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/datacenter-security.jpg" alt="Server Managed Services">
                   <figcaption>
@@ -750,7 +593,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12" style="margin:0; padding:0;">
               <div class="portfolio">
-                <a href="../../services/support-and-managed-services/server-network-monitoring.php">
+                <a href="../../managed-services/server-network-monitoring.php">
                 <figure class="effect-julia">
                   <img src="../../inc/img/support-img/network-security2.jpg" alt="Server Network Monitoring">
                   <figcaption>
@@ -771,7 +614,7 @@
           <div class="container">
             <div class="row text-center">         
                 <h3 class="title-small wow bounce" data-wow-duration="1000ms" data-wow-delay="300ms">Interested in our services?</h3>
-                 <a href="/contact" class="btn btn-lg btn-border">Contact Us</a>
+                 <a href="#contact" class="btn btn-lg btn-border">Contact Us</a>
               </div>
           </div>
         </section>
