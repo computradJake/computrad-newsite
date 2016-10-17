@@ -4,7 +4,7 @@
   <head>    
     <meta charset="utf-8">
     <meta name="keywords" content="IT Support, IT Support Services, Computer Support, IT Services, IT Outsourcing, Managed Services, Managed IT Services, CompuSupport, CompuManage">
-    <meta name="description" content="If you wish to  create, monitor and enforce application delivery SLAs">
+    <meta name="description" content="If you wish to create, monitor and enforce application delivery SLAs">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Computrad">
 <?php include '../../inc/modules/headinglinks.php'; ?>
